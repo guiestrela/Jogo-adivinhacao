@@ -50,7 +50,6 @@ def jogar():
                 if rodada == tentativa:
                     print(f"o numero secreto era {numero_secreto}. Você fez {pontos} pontos")
 
-
     print("Fim do Jogo!!!")
 
 if __name__ == "__main__":

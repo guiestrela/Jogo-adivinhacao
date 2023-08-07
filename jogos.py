@@ -19,3 +19,4 @@ def escolhe_jogos():
 
 if __name__ == "__main__":
     escolhe_jogos()
+    
